@@ -1,3 +1,2 @@
 Server = https://master.seedhost.eu/arcolinux/$repo/$arch
 Server = https://arcolinux.github.io/$repo/$arch
-Server = https://driesdubois.be/$repo/$arch
