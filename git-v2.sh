@@ -26,3 +26,6 @@ git push -u origin master
 echo "################################################################"
 echo "###################    Git Push Done      ######################"
 echo "################################################################"
+
+echo "REMEMBER to update the arcolinux-mirrorlist in"
+echo "arcolinux-sytem-config and arcolinuxd-system-config"
