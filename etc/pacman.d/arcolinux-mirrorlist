@@ -16,5 +16,8 @@ Server = https://mirror.aarnet.edu.au/pub/arcolinux/$repo/$arch
 # South Korea
 Server = https://mirror.funami.tech/arcolinux/$repo/$arch
 
+# Singapore
+Server = https://mirror.jingk.ai/arcolinux/$repo/$arch
+
 # United States San Francisco - no xlarge repo here
 Server = https://arcolinux.github.io/$repo/$arch
