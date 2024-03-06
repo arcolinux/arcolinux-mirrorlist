@@ -4,6 +4,9 @@
 # Gitlab United States
 Server = https://gitlab.com/arcolinux/$repo/-/raw/main/$arch
 
+# United States San Francisco - no xlarge repo here
+Server = https://arcolinux.github.io/$repo/$arch
+
 # Sweden - accum.se
 Server = https://mirror.accum.se/mirror/arcolinux.info/$repo/$arch
 
@@ -13,15 +16,4 @@ Server = https://ftp.belnet.be/arcolinux/$repo/$arch
 # Australia
 Server = https://mirror.aarnet.edu.au/pub/arcolinux/$repo/$arch
 
-# South Korea
-Server = https://mirror.funami.tech/arcolinux/$repo/$arch
 
-# Singapore
-Server = https://mirror.jingk.ai/arcolinux/$repo/$arch
-
-# South America - Pimenta Bueno, Brazil
-Server = https://arcolinux.chililinux.com/$repo/$arch
-Server = https://arcolinux.chilios.com.br/$repo/$arch
-
-# United States San Francisco - no xlarge repo here
-Server = https://arcolinux.github.io/$repo/$arch
